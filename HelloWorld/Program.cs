@@ -1,4 +1,5 @@
-﻿string name;
+﻿Console.WriteLine("Hello World");
+string name;
 do
 {
     Console.Write("Input your first name: ");
